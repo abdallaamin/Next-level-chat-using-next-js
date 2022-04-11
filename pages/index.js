@@ -1,5 +1,5 @@
 import React , { useContext } from "react";
-import {context} from '../context';
+import {context} from '../Context';
 import {useRouter} from 'next/router';
 
 import axios from 'axios';

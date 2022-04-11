@@ -1,6 +1,6 @@
 import React ,{useState , useContext  } from "react";
 import {UseEffect} from 'react';
-import {context } from '../context'
+import {context } from '../Context'
 
 import {useRouter } from "next/router"
 import dynamic from "next/dynamic";
@@ -43,7 +43,6 @@ React.useEffect(() => {
 			userSecret={secret}
 			projectID='774a1227-f08a-43c5-b84e-4e8382e79dc1'
       renderNewMessageForm={()=><MessageFormSocial/>}
-      style={{overflow: "hidden scroll"}}
         />
       </div>
     </div>
