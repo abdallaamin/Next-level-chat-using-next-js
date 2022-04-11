@@ -1,20 +1,24 @@
 .shadow {
   box-shadow: 0 2px 15px rgb(0 0 0 / 68%);
+  
 }
 
 /* Chat List */
 .ce-wrapper {
   background-color: #4a5162 !important;
+  
 }
 
 .ce-chats-container {
   background-color: #4a5162 !important;
   border-radius: 0px !important;
+  
 }
 
 .ce-chat-form-container {
   background-color: #4a5162 !important;
   color: white;
+
 }
 
 .ce-chat-card {
@@ -46,6 +50,7 @@
 .ce-chat-title-container {
   background-color: #4a5162 !important;
   border-radius: 0px !important;
+
 }
 
 .ce-chat-feed-container {
@@ -54,6 +59,7 @@
 
 .ce-primary-button {
   background-color: #9a97fc !important;
+
 }
 
 .ce-message-date-text {
@@ -131,6 +137,7 @@
 .ce-settings {
   background-color: #4a5162 !important;
   border-radius: 0px !important;
+  /* overflow: hidden scroll; */
 }
 
 .ce-chat-title-form .ce-text-input {
