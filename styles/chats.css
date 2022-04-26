@@ -5,18 +5,18 @@
 
 /* Chat List */
 .ce-wrapper {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   
 }
 
 .ce-chats-container {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   border-radius: 0px !important;
   
 }
 
 .ce-chat-form-container {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   color: white;
 
 }
@@ -26,11 +26,11 @@
 }
 
 .ce-chat-card-loading-bar {
-  background-color: #535a6d !important;
+  background-color: #081b4d !important;
 }
 
 .ce-active-chat-card {
-  background-color: #726dfe !important;
+  background-color: #55ffaa !important;
 }
 
 .ce-chat-title-text {
@@ -38,7 +38,7 @@
 }
 
 .ce-chat-subtitle-text {
-  color: hsla(0, 0%, 100%, 0.568) !important;
+  color: hsla(59, 66%, 53%, 0.568) !important;
 }
 
 .ce-chat-unread-dot {
@@ -48,17 +48,17 @@
 /* Chat Feed */
 
 .ce-chat-title-container {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   border-radius: 0px !important;
 
 }
 
 .ce-chat-feed-container {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
 }
 
 .ce-primary-button {
-  background-color: #9a97fc !important;
+  background-color: #55ffaa !important;
 
 }
 
@@ -67,23 +67,23 @@
 }
 
 .ce-my-message-bubble {
-  background-color: #726dfe !important;
+  background-color: #55ffaa !important;
 }
 
 .ce-my-message-sinding-bubble {
-  background-color: #938ffe !important;
+  background-color: #1f584a !important;
 }
 
 .ce-my-message-timestamp {
-  color: #9a97fc !important;
+  color: #1ba856 !important;
 }
 
 .ce-their-message-timestamp {
-  color: hsla(0, 0%, 100%, 0.568) !important;
+  color: hsla(138, 46%, 57%, 0.568) !important;
 }
 
 #ce-send-message-button {
-  background-color: #9a97fc !important;
+  background-color: #55ffaa !important;
 }
 
 #ce-ice-breaker-gif {
@@ -92,7 +92,7 @@
 }
 
 .ce-social-message-form {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
 }
 
 .ce-message-input-form {
@@ -104,7 +104,7 @@
   position: relative !important;
   top: 4px !important;
   border-width: 0px !important;
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   color: white !important;
 }
 #msg-textarea::placeholder {
@@ -120,7 +120,7 @@
 }
 
 .ce-message-images-row {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
 }
 
 .ce-their-message-sender {
@@ -135,34 +135,34 @@
 /* Chat Settings */
 
 .ce-settings {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   border-radius: 0px !important;
   /* overflow: hidden scroll; */
 }
 
 .ce-chat-title-form .ce-text-input {
-  background-color: #4a5162;
+  background-color: #175e4c;
   color: white;
 }
 
 .ce-section-title-container {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   color: white;
 }
 
 #ce-options-drop-down {
-  background-color: #4a5162 !important;
+  background-color: #175e4c !important;
   color: white;
 }
 
 .ce-person-text {
-  color: hsla(0, 0%, 100%, 0.568);
+  color: hsla(69, 83%, 67%, 0.856);
 }
 
 .ce-danger-button {
-  background-color: #4a5162 !important;
-  border: 1px solid #9a97fc !important;
-  color: #9a97fc !important;
+  background-color: #55ffaa !important;
+  border: 1px solid #26fab3 !important;
+  color: #487a61 !important;
 }
 
 .ce-autocomplete-close {
