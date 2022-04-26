@@ -15,7 +15,7 @@
 <h2>login or create a new account and try to chat alone or ongroupchat with online indicator</br>,image sharing and much more </h2>
 
 ## you can visit deployed version 
-<h3>from <a href="" target="_blank"> Here</a> </h3>
+<h3>from <a href="https://nextlevelchat.vercel.app/" target="__blank"> Here</a> </h3>
     </br>
     
 This project is built using :
